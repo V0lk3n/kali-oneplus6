@@ -2,11 +2,11 @@
 
 . ./funcs.sh
 
-device="pinephone"
-environment="phosh"
-hostname="fossfrog"
-username="kali"
-password="8888"
+device="oneplus6"
+environment="plasma-mobile"
+hostname="kali"
+username="v0lk3n"
+password="1234"
 mobian_suite="trixie"
 IMGSIZE=5   # GBs
 
